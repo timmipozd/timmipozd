@@ -1,10 +1,10 @@
 # Hi, I'm timmipozd! 👋
 
 ### 🎓 About Me
-- `18-year-old Cybersecurity student based in Moscow, Russia`
-- 🛡️ Specializing in **Computer Systems Security Analysis**
-- ⚙️ Interested in **DevOps**, **SecDevOps**
-- 📚 Currently learning: programming fundamentals, Machine Learning (ML), network security, Linux(+Bash), 
+-`18-year-old Cybersecurity student based in Moscow, Russia`
+- Specializing in **Computer Systems Security Analysis**
+- Interested in **DevOps**, **SecDevOps**
+- Currently learning: programming fundamentals, Machine Learning (ML), network security, Linux(+Bash), 
 
 ### 💻 Languages & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
