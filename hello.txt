@@ -1,4 +1,0 @@
-- 18 y.o. Cybersecurity student 
-- Based in Moscow, Russia
-- Interested in DevOps & Network Security
-- Languages: C, Python
