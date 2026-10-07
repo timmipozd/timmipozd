@@ -1,11 +1,17 @@
 # Hi, I'm timmipozd! 👋
 
-- 🔭 I’m currently learning how to use GitHub.
-- 🌱 I’m learning the basics of programming.
-- 📫 How to reach me: @timmipozd — (Telegram) or timmipozd@gmail.com
+### About Me
+- `18-year-old Cybersecurity student based in Moscow, Russia`
+- Specializing in **Computer Systems Security Analysis**
+- Interested in **DevOps**, **SecDevOps**
+- Currently learning: programming fundamentals, Machine Learning (ML), network security, Linux(+Bash), 
 
-# Привет, я timmipozd! 👋
+### Languages & Tools
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 Сейчас я учусь работать с GitHub.
-- 🌱 Изучаю основы программирования.
-- 📫 Как со мной связаться: @timmipozd — (Телеграмм) или timmipozd@gmail.com
+### How to Reach Me
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/timmipozd)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timmipozd@gmail.com)
